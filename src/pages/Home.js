@@ -1,11 +1,3 @@
-import GalaxyCluster from '../pics/GalaxyCluster.jpg';
-import InteractingGalaxies from '../pics/InteractingGalaxies.jpg';
-import M51 from '../pics/M51.jpg';
-import M104 from '../pics/M104.jpg';
-import NGC1300 from '../pics/NGC1300.jpg';
-import Meerkat from '../pics/Meerkat-Group-Zoom-Virtual-Background.png';
-import Camille from '../pics/logo192.png';
-
 import Button from '@mui/material/Button';
 import ImageGallery from '../components/ImageGallery';
 import './Home.css';
