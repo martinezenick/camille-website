@@ -1,0 +1,28 @@
+
+.boarder {
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+}
+
+.home-content {
+    margin: 2rem auto;
+    padding: .25rem;
+}
+
+.home-shopnow {
+    padding: .25rem;
+    margin: 3rem;
+}
+
+.first-button {
+    color: black;
+    font-size: 30px;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+.nav-class {
+    text-decoration: none;
+}
